@@ -1,3 +1,4 @@
 baseURL = "https://master.d331cltvcbj5h2.amplifyapp.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "hugo-initio-master"
