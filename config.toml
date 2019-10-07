@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL = "https://master.d331cltvcbj5h2.amplifyapp.com/"
+=======
+baseURL = "https://master.d331cltvcbj5h2.amplifyapp.com"
+>>>>>>> origin/master
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-initio-master"
